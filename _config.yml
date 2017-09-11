@@ -6,24 +6,24 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Webjeda cards
-email: your-email@domain.com
+title: 迷你課程
+email: mtlin@gm.ntpu.edu.tw
 description: > # this means to ignore newlines until "baseurl:"
-  Webjeda Cards is a Bootstrap based jekyll theme for portfolio, photography or any kind of blog.
-  
-  
-  
-baseurl: "/cards" # the subpath of your site, e.g. /blog
-url: "http://webjeda.com" # the base hostname & protocol for your site
+  國立臺北大學經濟學系「經濟時事與多媒體出版」迷你課程。
+
+
+
+baseurl: "/minicourses" # the subpath of your site, e.g. /blog
+url: "http://ntpuecon.github.io" # the base hostname & protocol for your site
 
 #sidebar
 default-image: webjeda-logo-big.jpg # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
 
 #footer
-built-by: webjeda
+built-by: E.Major Taiwan
 copyright:
-   name: webjeda
-   link: 'http://blog.webjeda.com'
+   name: E.Major Taiwan
+   link: 'https://www.facebook.com/Emajortaiwanforu/'
 
 # Build settings
 markdown: kramdown
@@ -38,7 +38,7 @@ analytics: UA-83979019-1
 disqus-shortname: webjeda-demo
 
 #social
-facebook: http://facebook.com/webjeda
+facebook: https://www.facebook.com/Emajortaiwanforu/
 quora: http://quora.com/sharathdt
 twitter: http://twitter.com/@webjeda
 github: http://github.com/webjeda
@@ -54,4 +54,3 @@ sass:
 
 # Ruby Gems
 gems: [jekyll-paginate, jekyll-seo-tag]
-
