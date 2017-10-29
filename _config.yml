@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 迷你課程
+title: 「經濟時事與多媒體出版」迷你課程
 email: mtlin@gm.ntpu.edu.tw
 description: > # this means to ignore newlines until "baseurl:"
   國立臺北大學經濟學系「經濟時事與多媒體出版」迷你課程。
@@ -51,4 +51,4 @@ sass:
   style: compressed
 
 # Ruby Gems
-plugins: [jekyll-paginate, jekyll-seo-tag]
+gems: [jekyll-paginate, jekyll-seo-tag, jekyll-paginate]

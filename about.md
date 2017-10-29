@@ -1,12 +1,36 @@
 ---
 layout: page
-title: About
+title: 修課規則
 permalink: /about/
+img: minicourse.jpg
 ---
+第一次公佈2017.09.25
+<br>
+<br>
 
+1. 課程內容：
+【經濟時實與多媒體出版】課程（以下簡稱本課程）是由一系列不定日期、時間的迷你課程（長度2~3小時）
+及競賽活動所串成，學生可自由挑選想上的迷你課程及參與的競賽活動，在畢業前完成要求的迷你課程總
+時數及競賽活動參與後，獲得【經濟時事與多媒體出版】課程3學分。
 
+2. 「本課程」只於每學年下學期開課。
 
+3. 修課資格：  
 
-Webjeda cards is a Bootstrap based theme. Any Bootstrap element can be used in the theme. Read [Webjeda Blog](http://blog.webjeda.com){: target="_blank"} for jekyll tutorials. 
+    (1) 必需為主修、輔系、雙主修經濟學大學部學生。  
+  (2) 「本課程」開課當學期前已完成至少12小時迷你課程者，才可於選課系統選修「本課程」。  
 
-For more themes, visit [jekyll-themes](https://jekyll-themes.com){: target="_blank"}
+4. 課程要求：在學階段至選修【經時】學期結束前完成以下兩條件，  
+
+    (1) 經濟播客競賽或經濟·數據分析競賽其中之一。  
+  (2) 完成至少（含）24小時不重覆的迷你課程，包含課程所指定之作業。  
+
+5. 迷你課程：  
+
+    (1) 公告於[「本課程」臉書社團](https://www.facebook.com/groups/ntpuecon.mpei/)，有興趣之同學必需先加入此社團。   
+  (2) 每學期最少會有6節不同內容之迷你課程。  
+  (3) 一學年最少有12節不同內容之迷你課程。  
+
+6. 參與時點：學生所修習之第一堂迷你課程將視為該生在本課程之開始參與時點（以下簡稱參與時點）。  
+
+7. 本課程保有修改規則之權力，任何新規則公佈日期即適用於參與時點在公佈日期之後的學生。
