@@ -2,10 +2,13 @@
 layout: post
 title: Documentation
 img: image-5.png
+location: 社科大樓
+time: 10/30 12:00
+exclude: yes
 ---
 
 
-# Installation: 
+# Installation:
 Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
 
 Watch my video on instlallation
@@ -25,7 +28,7 @@ You have to create a new ``gh-pages`` branch using the master branch. Go back to
 
 Now, go to settings and check the **Github Pages** section. You should see a URL where the blog is hosted.
 
-This process will host the theme as a **Project Page**. You can also download the files for local development. 
+This process will host the theme as a **Project Page**. You can also download the files for local development.
 
 Default theme will look like this
 
@@ -49,6 +52,6 @@ MIT License
 version 1.0 - SEO, disqus, page-speed enhancement, compressed html.
 
 version 0.9 - Sidebar default image and other minor improvements.  
-  
+
 version 0.8 - Bootstrap based cards layout theme.
 </pre>

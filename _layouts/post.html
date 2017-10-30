@@ -17,7 +17,7 @@ layout: default
 
     </article>
     <div class="row">
-        {% if site.disqus-shortname %}
+        {% if page.comments %}
          {% include disqus.html %}
         {% endif %}
     </div>
@@ -25,12 +25,12 @@ layout: default
 
     <div class="row">
             <ul class="pager">
-             {% if page.next.url %}
+             <!-- {% if page.next.url %}
                     <li><a class="next" href="{{page.next.url | prepend: site.baseurl}}">&laquo; {{page.next.title}}</a></li>
               {% endif %}
               {% if page.previous.url %}
                 <li><a class="previous" href="{{page.previous.url | prepend: site.baseurl}}">{{page.previous.title}} &raquo;</a></li>
-              {% endif %}
+              {% endif %} -->
             </ul>
     </div>
 </div>
