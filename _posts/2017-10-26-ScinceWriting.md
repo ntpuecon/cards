@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "資料科學寫作(I)"
-author: DS-01
+course-number: DS-01
 date:   2017-10-26
 categories: 寫作
 location: 創創中心
