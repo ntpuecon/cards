@@ -10,6 +10,7 @@ img: plotly.png
 requirement: [事前安裝R和Rstudio,註冊plotly平台帳戶,帶筆電,閱讀本篇文章https://plot.ly/ ]
 comments: true
 ---
+
 使用R語言結合plotly平台，可以有效率做出高質感的資料視覺化。
 本課程內容包含：
 
