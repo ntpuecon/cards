@@ -12,6 +12,9 @@ comments: true
 ---
 
 使用R語言結合plotly平台，可以有效率做出高質感的資料視覺化。
+
+請先閱讀本篇文章[plotly](https://plot.ly/)
+
 本課程內容包含：
 
 1. R語言基本回顧
@@ -22,4 +25,4 @@ comments: true
 
 4. 利用既有的政府開放平台資料進行實作
 
-請先閱讀本篇文章`https://plot.ly/`
+
