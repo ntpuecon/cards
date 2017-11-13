@@ -7,7 +7,7 @@ categories: 資料視覺化
 location: 創創中心
 time: 11/23 18:00~20:30
 img: plotly.png
-requirement: [事前安裝R和Rstudio,註冊plotly平台帳戶,帶筆電]
+requirement: [事前安裝R,Rstudio,Github,Github Desktop,註冊plotly平台帳戶,帶筆電]
 comments: true
 ---
 
