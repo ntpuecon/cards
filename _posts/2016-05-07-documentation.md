@@ -5,6 +5,7 @@ img: image-5.png
 location: 社科大樓
 time: 10/30 12:00
 exclude: yes
+hidden: ture
 ---
 
 
