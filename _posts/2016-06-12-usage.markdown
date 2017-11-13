@@ -5,6 +5,7 @@ categories: jekyll update
 img: image-2.png
 categories: two
 exclude: true
+hidden: true
 ---
 
 Use the guide to prepare good looking posts! The theme has a sidebar in the post layout which consists of post image, recent posts and facebook like box. This can be extended by editing the ``sidebar.html`` in **_includes** folder.
