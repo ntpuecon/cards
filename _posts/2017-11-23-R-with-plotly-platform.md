@@ -17,7 +17,7 @@ Prerequisite
 - 下載[R](http://cran.csie.ntu.edu.tw)
 - 下載[Rstudio](https://www.rstudio.com/products/rstudio/download/)
 - 下載[Github Desktop](https://desktop.github.com)
-- 註冊[Github，點選Get a Discount ](https://education.github.com)
+- 註冊[Github，點選Request a discount ](https://education.github.com)
 - 註冊[plotly平台](https://plot.ly/feed/)
 
 本課程內容包含：
