@@ -18,6 +18,7 @@ Prerequisite: (請先裝R 再裝Rstudio)
 - 下載[Github Desktop](https://desktop.github.com)
 - 註冊[Github，點選Request a discount ](https://education.github.com)
 - 註冊[plotly平台](https://plot.ly/feed/)
+
 本課程內容包含：
 - R語言基本回顧
 - 如何串聯R語言與plotly平台
