@@ -13,7 +13,7 @@ comments: true
 
 使用R語言結合plotly平台，可以有效率做出高質感的資料視覺化。
 
-Prerequisite:
+Prerequisite: (請先裝R 再裝Rstudio)
 - 閱讀本篇文章[plotly](http://blog.infographics.tw/2015/03/social-chart-visualization-with-plotly/)
 - 下載[R](http://cran.csie.ntu.edu.tw)
 - 下載[Rstudio](https://www.rstudio.com/products/rstudio/download/)
