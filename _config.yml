@@ -54,3 +54,6 @@ sass:
 gems: [jekyll-paginate, jekyll-seo-tag, jekyll-paginate]
 
 exclude: [minicourses]
+
+# 讓post檔名為未來日期時，也可以立刻發佈出去
+future: true
