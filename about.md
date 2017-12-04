@@ -4,7 +4,7 @@ title: 修課規則
 permalink: /about/
 img: minicourse.jpg
 ---
-第一次公佈2017.09.15
+第一次公佈2017.09.15  
 第一次修定2017.11.15
 <br>
 <br>
