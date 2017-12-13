@@ -14,7 +14,7 @@ MSYS2是ruby的development kit(可以想像成工具包)，因為在ruby裡面�
 ### Step 2 Install MSYS2
 直接依照指示完成MSYS2
 1. 選擇1(輸入1)先安裝MSYS2 base installation
-![install msys2-2]({{site.url}}/minicourses/images/JEKYLL-INSTALL-003.PNG)
+![install msys2-2]({{site.url}}/minicourses/images/JEKYLL-INSTALL-003.PNG)  
 完成後會出現MSYS2的安裝精靈，依照指示點擊**Next**即可完成安裝
 ![install msys2-3]({{site.url}}/minicourses/images/JEKYLL-INSTALL-004.PNG)
 2. 接著對MSYS2進行系統更新，選擇2(輸入2)
@@ -72,7 +72,8 @@ cd my-blog
 jekyll serve
 ```
 成功後會出現以下畫面:
-![jekyll serve-1]({{site.url}}/minicourses/images/JEKYLL-INSTALL-008.PNG)
+![jekyll serve-1]({{site.url}}/minicourses/images/JEKYLL-INSTALL-008.PNG)  
+
 最後在瀏覽器中輸入網址:   http:/127.0.0.1:4000/  
 出現以下畫面表示成功!
 ![jekyll serve-2]({{site.url}}/minicourses/images/JEKYLL-INSTALL-009.PNG)
