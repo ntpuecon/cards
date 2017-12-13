@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-post
 ---
 # 如何在Windows系統下安裝Jekyll?
 jkyll是用Ruby語言所寫的工具，所以在安裝jekyll之前我們必須先下載Ruby

@@ -18,7 +18,7 @@ snow = {
         snow.cv.width = innerWidth;
         snow.cv.height = outerHeight;
         snow.gt = snow.ct.createLinearGradient(0,0,0,snow.cv.height);
-        snow.gt.addColorStop(0.0, '#0093FF'); //    background: #5AACFE;
+        snow.gt.addColorStop(0.0, '#7afffc'); //    background: #5AACFE;
 
         snow.gt.addColorStop(1.0, '#69BFFF');
         snow.ct.fillStyle = snow.gt;
