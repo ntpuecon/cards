@@ -1,23 +1,26 @@
+---
+layout: default
+---
 # 如何在Windows系統下安裝Jekyll?
 jkyll是用Ruby語言所寫的工具，所以在安裝jekyll之前我們必須先下載Ruby
 ### Step 1 Download Ruby
 1. 請下載[Ruby2.4](https://rubyinstaller.org/downloads/)的版本，下載後直接執行安裝檔
 2. 安裝過程中遇上此步驟請勾選 **Add Ruby executable to your PATH**以及**Associate .rb and .rbw files with this Ruby Installation**  
 
-![RUBYINSTALL](https://github.com/danielwu951219/jekyll-installation-on-windows/blob/master/rubyinstallation.PNG?raw=true)  
+![RUBYINSTALL]({{site.url}}/minicourses/images/JEKYLL-INSTALL-001.PNG)  
 
-3.安裝完成後，在安裝精靈的最後一步驟可接續安裝MSYS2![install msys2-1](https://github.com/danielwu951219/jekyll-installation-on-windows/blob/master/step3.PNG?raw=true)  
+3.安裝完成後，在安裝精靈的最後一步驟可接續安裝MSYS2![install msys2-1]({{site.url}}/minicourses/images/JEKYLL-INSTALL-002.PNG)  
 MSYS2是ruby的development kit(可以想像成工具包)，因為在ruby裡面有許多的gem(ruby的套件稱為gem)並不是用ruby語言寫的，所以若要安裝如C語言所寫的gem就必須要靠development kit，也就是MSYS2。
 ### Step 2 Install MSYS2
 直接依照指示完成MSYS2
 1. 選擇1(輸入1)先安裝MSYS2 base installation
-![install msys2-2](https://github.com/danielwu951219/jekyll-installation-on-windows/blob/master/step4.PNG?raw=true)
+![install msys2-2]({{site.url}}/minicourses/images/JEKYLL-INSTALL-003.PNG)
 完成後會出現MSYS2的安裝精靈，依照指示點擊**Next**即可完成安裝
-![install msys2-3](https://github.com/danielwu951219/jekyll-installation-on-windows/blob/master/step5.PNG?raw=true)
+![install msys2-3]({{site.url}}/minicourses/images/JEKYLL-INSTALL-004.PNG)
 2. 接著對MSYS2進行系統更新，選擇2(輸入2)
-![install msys2-4](https://github.com/danielwu951219/jekyll-installation-on-windows/blob/master/step6.PNG?raw=true)
+![install msys2-4]({{site.url}}/minicourses/images/JEKYLL-INSTALL-005.PNG)
 3. 最後選擇3(輸入3)，安裝MSYS2及MINGW的development toolchain
-![install msys2-5](https://github.com/danielwu951219/jekyll-installation-on-windows/blob/master/step7.PNG?raw=true)
+![install msys2-5]({{site.url}}/minicourses/images/JEKYLL-INSTALL-006.PNG)
 以上三步即完成MSYS2的安裝
 
 ### Step 3 安裝Jekyll
@@ -32,7 +35,7 @@ gem sources -r https://rubygems.org
 gem sources -a http://rubygems.org
 ```
 接著選擇yes(輸入y)，如下圖:
-![install jekyll-1](https://github.com/danielwu951219/jekyll-installation-on-windows/blob/master/step10.PNG?raw=true)
+![install jekyll-1]({{site.url}}/minicourses/images/JEKYLL-INSTALL-007.PNG)
 3. 安裝Jekyll及Bundler   
 jekyll與bundler都是Ruby中的gem，其中jekyll正是我們要用來架設網站的部落格產生器，在架站的過程中我們可以用其他作者製作的網站模板(稱為Jekyll Theme)進行套用，但是這些模板同時可能會用到ruby中其他的gem，bundler的用途就是為了控制這些gem的版本。  
 在**命令提示字元**下指令安裝jekyll、bundler這兩個gem。  
@@ -69,7 +72,7 @@ cd my-blog
 jekyll serve
 ```
 成功後會出現以下畫面:
-![jekyll serve-1](https://github.com/danielwu951219/jekyll-installation-on-windows/blob/master/step11.PNG?raw=true)
+![jekyll serve-1]({{site.url}}/minicourses/images/JEKYLL-INSTALL-008.PNG)
 最後在瀏覽器中輸入網址:   http:/127.0.0.1:4000/  
 出現以下畫面表示成功!
-![jekyll serve-2](https://github.com/danielwu951219/jekyll-installation-on-windows/blob/master/step12.PNG?raw=true)
+![jekyll serve-2]({{site.url}}/minicourses/images/JEKYLL-INSTALL-009.PNG)
