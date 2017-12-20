@@ -6,3 +6,6 @@ https://tensorflow.rstudio.com/tfestimators/
 
 ggalt套件：  
 https://cran.r-project.org/web/packages/ggalt/vignettes/ggalt_examples.html
+
+front-line:
+https://www.pbs.org/wgbh/frontline/film/poverty-politics-and-profit/
