@@ -10,7 +10,6 @@ time: 03/13 18:30~21:00
 img: github-logo.jpg  
 requirement: ["自備筆電"]  
 comments: true  
-exclude: true
 ---
 同一個檔案你是否曾為了不同進度而以日期不斷命名？和一群人合作寫報告，你是不是常常發現要碰面
 討論才有辦法整合？其實你可以有更好的方法！
