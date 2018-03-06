@@ -2,7 +2,7 @@
 layout: post  
 title:  "網頁語法基本認識"  
 course-number: WB-01-1 
-date:   2018-03-23  
+date:2018-03-23  
 categories: Github  
 enrollment: https://www.facebook.com/groups/ntpuecon.mpei/
 location: 請點線上報名  
@@ -16,7 +16,7 @@ comments: true
 因為透過實作練習就能馬上看到成品，學習起來特別有成就感，更能以蓋出自己的網站為目標！
 
 寫網站就像蓋房子，本課程著重介紹網頁語法HTML、外觀設計CSS與互動式功能外掛Javascript的應用。
-若HTML是房子的鋼筋水泥，則CSS就是粉刷裝潢，為網站添加個人風格，另外Javascript就像傢俱擺設為其注入活力！
+若HTML是房子的鋼筋水泥，則CSS就是粉刷裝潢為網站添加個人風格，而Javascript就像傢俱擺設為其注入活力！
 
 你還在等什麼呢？就讓這堂課成為你接觸程式語言的起點吧！
 
