@@ -10,7 +10,6 @@ time: 12/27 18:00~21:00
 img: markdown.png  
 requirement: ["自備筆電"]  
 comments: true  
-exclude: true
 ---
 Markdown是程式科學文件寫作的一種格式，在Markdown環境裡，作者可以在正文中加入數學方程式、
 圖表、文獻引用外，也可以加入HTML程式碼，所以它也是網頁製作的一個便利設計環境。此外，
