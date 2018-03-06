@@ -9,7 +9,6 @@ time: 11/23 18:00~21:00
 img: plotly.png
 requirement: [事前安裝R,Rstudio,Github Desktop,註冊Github帳戶,註冊plotly平台帳戶,帶筆電（請充飽電）]
 comments: true
-exclude: true
 ---
 使用R語言結合plotly平台，可以有效率做出高質感的資料視覺化。<br>        
 
