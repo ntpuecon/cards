@@ -7,7 +7,7 @@ categories: Website
 enrollment: https://www.facebook.com/groups/ntpuecon.mpei/
 location: 請點線上報名  
 time: 03/24 09:00~12:00  
-img: 
+img: Bootstrap.jpg
 requirement: ["自備筆電"]  
 comments: true  
 ---
