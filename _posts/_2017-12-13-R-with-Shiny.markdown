@@ -10,7 +10,6 @@ time: 12/13 18:00~21:00
 img: shiny.png
 requirement: ["自備筆電"]
 comments: true
-exclude: true
 ---
 
 
