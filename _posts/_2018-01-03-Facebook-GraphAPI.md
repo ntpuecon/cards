@@ -11,7 +11,6 @@ img: facebook-graphapi.png
 requirement: ["自備筆電"]  
 comments: true  
 exclude: true
-
 ---
 本課程在學習如何使用臉書的Graph API來抓取臉書資料。另外，也會教導如何在R裡直接進行
 臉書資料抓取動作。由於Graph API是常見的API使用架構，了解它的基本原則也有助於同學
