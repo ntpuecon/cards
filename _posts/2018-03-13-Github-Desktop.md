@@ -4,7 +4,7 @@ title:  "網路協作平台Github介紹"
 course-number: DS-02  
 date:   2018-03-13  
 categories: Github  
-enrollment: https://www.facebook.com/groups/ntpuecon.mpei/
+enrollment: https://www.facebook.com/events/2035030076770044/
 location: 請點線上報名  
 time: 03/13 18:30~21:00  
 img: github-logo.jpg  
