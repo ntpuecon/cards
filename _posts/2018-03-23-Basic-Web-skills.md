@@ -19,4 +19,13 @@ comments: true
 
 你還在等什麼呢？就讓這堂課成為你接觸程式語言的起點吧！
 
-本課程無需任何基礎，任何課堂（前）要求近期會再發布，必要時會於【經濟時事與多媒體出版】活動頁面公布訊息~
+本課程無需任何基礎，上課前請先完成以下步驟：
+
+1. 註冊[codepen](https://codepen.io)  
+2. 註冊[hypothes.is](https://hypothes.is), 並點以下連結加入討論群：  
+    <https://hypothes.is/groups/vPZDpneY/106xue-nian-xia-wb-01-1>  
+3. 安裝[chrome](https://www.google.com/chrome/)  
+4. 安裝[hypothes.is extension for Chrome](https://chrome.google.com/webstore/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek?hl=en)  
+5. 註冊[Github.com](https://github.com/)  
+6. 安裝[Github desktop](https://desktop.github.com/)  
+7. 安裝[atom](https://atom.io/)  
