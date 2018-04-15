@@ -2,11 +2,11 @@
 layout: post  
 title:  "Bootstrap"  
 course-number: WB-03 
-date:   2018-03-24  
+date:   2018-05-10  
 categories: Website  
 enrollment: https://www.facebook.com/groups/ntpuecon.mpei/
 location: 請點線上報名  
-time: 03/24 09:00~12:00  
+time: 05/10 09:00~12:00  
 img: Bootstrap.jpg
 requirement: ["自備筆電"]  
 comments: true  
