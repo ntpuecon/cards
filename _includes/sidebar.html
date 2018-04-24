@@ -17,8 +17,11 @@
 
       {% if page.enrollment %}
           <h2>報名網址</h2>
-           <li><a href="{{page.enrollment}}">校內人士點此</a></li>
-           <li>若無法報名，請先加入<a href=https://www.facebook.com/groups/ntpuecon.mpei/>課程臉書</a>會員</li>
+           <li>☞<a href="{{page.enrollment}}">校「內」人士點此報名<br>（含本校已畢業學生）</a></li>
+          <li>校內人士若無法報名，請先加入<a href=https://www.facebook.com/groups/ntpuecon.mpei/>課程臉書</a>會員</li>
+           {% if page.enrollment_outside %}
+           <li>☞<a href="{{page.enrollment_outside}}" style="color:tomato">校「外」人士點此報名</a></li>
+           {% endif %}
       {% endif %}
 
            <h2>課前準備</h2>
