@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 「經濟時事與多媒體出版」迷你課程
+title: 國立臺北大學「經濟時事與多媒體出版」迷你課程
 email: mtlin@gm.ntpu.edu.tw
 description: > # this means to ignore newlines until "baseurl:"
   國立臺北大學經濟學系「經濟時事與多媒體出版」迷你課程。
@@ -44,7 +44,7 @@ github: http://github.com/webjeda
 #facebook like box
 fb-app-id: 516437792025417
 fb-page-url: https://www.facebook.com/groups/ntpuecon.mpei/
-fb-page-title: 經濟時事與多媒體出版
+fb-page-title: 國立臺北大學「經濟時事與多媒體出版」
 
 # Sass style
 sass:
