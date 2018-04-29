@@ -4,7 +4,7 @@ title:  "網頁分享、留言與流量追踪設定"
 course-number: WB-04
 date:   2018-05-17
 categories: Website
-enrollment: https://www.facebook.com/groups/ntpuecon.mpei/
+enrollment: https://www.facebook.com/events/170463450442340/?notif_t=plan_user_joined&notif_id=1524996193032604
 location: 請點線上報名
 time: 05/17 18:00~21:00
 img: webshare_track.png
