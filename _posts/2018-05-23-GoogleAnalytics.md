@@ -6,7 +6,7 @@ date:   2018-05-23
 categories: Website
 enrollment: https://www.facebook.com/events/170463450442340/?notif_t=plan_user_joined&notif_id=1524996193032604
 location: 請點線上報名
-time: 05/ 13:00~15:00
+time: 05/23 13:00~15:00
 img: Google Analytics.jpg
 requirement: ["自備筆電"]
 comments: true
